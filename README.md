@@ -1,26 +1,29 @@
-## HELLO evreyone Dany is here👋
+## Hi there👋
 
----
+### Languages & favorite IDE:
+[![Python](https://img.shields.io/badge/Python-yellow?logo=python&logoColor=white)](https://www.python.org/)
+[![Java Script](https://img.shields.io/badge/Java_Script-black?logo=javascript&logoColor=white)](https://www.javascript.com/)
+[![HTML](https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white)](https://html.com/)
+[![CSS](https://img.shields.io/badge/CSS-blue?logo=css3&logoColor=white)](https://en.wikipedia.org/wiki/CSS)
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=danybyte&show_icons=true&theme=tokyonight&border_radius=10)
+[![Visual Studio Code](https://img.shields.io/badge/VSCode-blue?logo=VisualStudioCode&logoColor=white)](https://code.visualstudio.com/)
 
-i'am daniel and love to learn
-I started learning Python in 2022, and that was the beginning of my love for the world of programming. A lot has happened since then and I’ve learned so much. I love exploring different frameworks, various programming languages, and new topics.
+### In my plan:
+[![Git](https://img.shields.io/badge/Git-red?logo=git&logoColor=white)](https://git-scm.com/)
+[![C++](https://img.shields.io/badge/C++-green?logo=cplusplus&logoColor=white)](https://cplusplus.com/)
+[![Type Script](https://img.shields.io/badge/Type_Script-110079?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)](https://go.dev/)
 
-On my [X page](https://x.com/DanyByte11), I post short but important and interesting topics.
+### Learning:
+[![Bash](https://img.shields.io/badge/Bash-000000?logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)](https://react.dev/)
 
-<p align="center">
-  <a href="https://www.youtube.com/@theDanyByte">
-    <img alt="FA Youtube" src="https://img.shields.io/badge/YouTube-ff0000.svg?logo=youtube&logoColor=white"/>
-  </a>
-    <a href="https://www.youtube.com/@DanyByteBug">
-    <img alt="EN Youtube" src="https://img.shields.io/badge/YouTube-ff0000.svg?logo=youtube&logoColor=white"/>
-  </a>
-  <a href="https://t.me/DanyByteCH">
-    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-1da1f2.svg?logo=telegram&logoColor=white"/>
-  </a>
-  <a href="https://x.com/DanyByte11">
-    <img alt="X" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2FDanyByte11">
-  </a>
+### About me:
+I'm Daniel. Born on September 11, 2011, I was interested in consoles and computers I was a child, and I always tried to make my consoles and computers more special. Later, I realized that I very interested in the world of technology, but I was not interested in programming, later in 2021, my father enrolled me in a training school to learn Python, and from there I realized my interest in programming and I would like to learn more and more programming languages.
 
-</p>
+[![My Site](https://img.shields.io/badge/My_site-danybyte.github.io/MyProfile-white?logo=GitHub&logoColor=white)](https://danybyte.github.io/MyProfile)
+[![Telegram](https://img.shields.io/badge/Telegram-@DanyByteCH-blue?logo=Telegram&logoColor=26A5E4)](https://t.me/DanyByteCH)
+[![X](https://img.shields.io/badge/_-@DanyByte11-black?logo=x&logoColor=E7E6DD)](https://www.x.com/DanyByte11)
+[![Youtube](https://img.shields.io/badge/Persian-@theDanyByte-red?logo=youtube&logoColor=E7E6DD)](https://www.youtube.com/@theDanyByte)
+[![Youtube](https://img.shields.io/badge/English-@DanyByteBug-red?logo=youtube&logoColor=E7E6DD)](https://www.youtube.com/@DanyByteBug)
+
