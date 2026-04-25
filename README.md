@@ -1,6 +1,6 @@
-# Hi there👋
+## Hi there👋
 
-## 📌 Languages & favorite IDE:
+### 📌 Languages & favorite IDE:
 [![Python](https://img.shields.io/badge/Python-yellow?logo=python&logoColor=white)](https://www.python.org/)
 [![Java Script](https://img.shields.io/badge/Java_Script-black?logo=javascript&logoColor=white)](https://www.javascript.com/)
 [![HTML](https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white)](https://html.com/)
@@ -9,25 +9,25 @@
 
 [![Visual Studio Code](https://img.shields.io/badge/VSCode-blue?logo=VisualStudioCode&logoColor=white)](https://code.visualstudio.com/)
 
-## 🗓 In my plan:
+### 🗓 In my plan:
 [![Git](https://img.shields.io/badge/Git-red?logo=git&logoColor=white)](https://git-scm.com/)
 [![C++](https://img.shields.io/badge/C++-green?logo=cplusplus&logoColor=white)](https://cplusplus.com/)
 [![Type Script](https://img.shields.io/badge/Type_Script-110079?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)](https://go.dev/)
 
-## 📖 Learning:
+### 📖 Learning:
 [![Bash](https://img.shields.io/badge/Bash-000000?logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)](https://react.dev/)
 
-### 📊 GitHub Stats:
+#### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=DanyByte&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DanyByte&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DanyByte&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 👨🏻‍💻 About me:
+### 👨🏻‍💻 About me:
 I'm Daniel. Born on September 11, 2011, I was interested in consoles and computers I was a child, and I always tried to make my consoles and computers more special. Later, I realized that I very interested in the world of technology, but I was not interested in programming, later in 2021, my father enrolled me in a training school to learn Python, and from there I realized my interest in programming and I would like to learn more and more programming languages.
 
-### ✍️ Random Dev Quote
+#### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 [![My Site](https://img.shields.io/badge/My_site-danybyte.github.io/MyProfile-white?logo=GitHub&logoColor=white)](https://danybyte.github.io/MyProfile)
