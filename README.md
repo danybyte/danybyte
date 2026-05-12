@@ -1,11 +1,12 @@
 ## Hi there👋
 
-### 📌 Languages & favorite IDE:
-[![Python](https://img.shields.io/badge/Python-yellow?logo=python&logoColor=white)](https://www.python.org/)
-[![Java Script](https://img.shields.io/badge/Java_Script-black?logo=javascript&logoColor=white)](https://www.javascript.com/)
+### 📌 Languages & frameworks & favorite IDE:
+[![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=yellow)](https://www.python.org/)
+[![Java Script](https://img.shields.io/badge/Java_Script-yellow?logo=javascript&logoColor=white)](https://www.javascript.com/)
 [![HTML](https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white)](https://html.com/)
 [![CSS](https://img.shields.io/badge/CSS-blue?logo=css3&logoColor=white)](https://en.wikipedia.org/wiki/CSS)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white)
+[![Bootstrap](https://img.shields.io/badge/bootstrap-purple?logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 
 [![Visual Studio Code](https://img.shields.io/badge/VSCode-blue?logo=VisualStudioCode&logoColor=white)](https://code.visualstudio.com/)
 
