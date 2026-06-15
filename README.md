@@ -7,11 +7,11 @@
 [![CSS](https://img.shields.io/badge/CSS-blue?logo=css3&logoColor=white)](https://en.wikipedia.org/wiki/CSS)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white)
 [![Bootstrap](https://img.shields.io/badge/bootstrap-purple?logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![Git](https://img.shields.io/badge/Git-red?logo=git&logoColor=white)](https://git-scm.com/)
 
 [![Visual Studio Code](https://img.shields.io/badge/VSCode-blue?logo=VisualStudioCode&logoColor=white)](https://code.visualstudio.com/)
 
 ### 🗓 In my plan:
-[![Git](https://img.shields.io/badge/Git-red?logo=git&logoColor=white)](https://git-scm.com/)
 [![C++](https://img.shields.io/badge/C++-green?logo=cplusplus&logoColor=white)](https://cplusplus.com/)
 [![Type Script](https://img.shields.io/badge/Type_Script-110079?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)](https://go.dev/)
