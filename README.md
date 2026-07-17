@@ -8,22 +8,18 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white)
 [![Bootstrap](https://img.shields.io/badge/bootstrap-purple?logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![Git](https://img.shields.io/badge/Git-red?logo=git&logoColor=white)](https://git-scm.com/)
+[![Type Script](https://img.shields.io/badge/Type_Script-110079?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)](https://react.dev/)
 
 [![Visual Studio Code](https://img.shields.io/badge/VSCode-blue?logo=VisualStudioCode&logoColor=white)](https://code.visualstudio.com/)
 
 ### 🗓 In my plan:
 [![C++](https://img.shields.io/badge/C++-green?logo=cplusplus&logoColor=white)](https://cplusplus.com/)
-[![Type Script](https://img.shields.io/badge/Type_Script-110079?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)](https://go.dev/)
 
 ### 📖 Learning:
 [![Bash](https://img.shields.io/badge/Bash-000000?logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
-[![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)](https://react.dev/)
-
-#### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DanyByte&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=DanyByte&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DanyByte&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+[![MySql](https://img.shields.io/badge/MySql-black?logo=mysql&logoColor=orange)]((https://www.mysql.com/)])
 
 ### 👨🏻‍💻 About me:
 I'm Daniel. Born on September 11, 2011, I was interested in consoles and computers I was a child, and I always tried to make my consoles and computers more special. Later, I realized that I very interested in the world of technology, but I was not interested in programming, later in 2021, my father enrolled me in a training school to learn Python, and from there I realized my interest in programming and I would like to learn more and more programming languages.
